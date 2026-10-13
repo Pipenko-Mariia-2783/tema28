@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="tema28/tema28.vcxproj" />
+  <Project Path="tema28/tema28.vcxproj" Id="ede0c1b8-94e4-4c0f-8b8b-d9ca6d9e7a4b" />
 </Solution>
